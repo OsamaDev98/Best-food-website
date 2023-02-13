@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Best-food-website/static/css/main.c9d36345.css",
+    "main.js": "/Best-food-website/static/js/main.812e5831.js",
+    "static/media/hero-2.jpg": "/Best-food-website/static/media/hero-2.58b7ffe0daf749732cdf.jpg",
+    "static/media/menu-1.jpg": "/Best-food-website/static/media/menu-1.b05b90f36706b427a51b.jpg",
+    "static/media/menu-2.jpg": "/Best-food-website/static/media/menu-2.2277158c206f6225ac1e.jpg",
+    "static/media/menu-3.jpg": "/Best-food-website/static/media/menu-3.79c901b549864fb55b7e.jpg",
+    "index.html": "/Best-food-website/index.html",
+    "main.c9d36345.css.map": "/Best-food-website/static/css/main.c9d36345.css.map",
+    "main.812e5831.js.map": "/Best-food-website/static/js/main.812e5831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d36345.css",
+    "static/js/main.812e5831.js"
+  ]
+}
